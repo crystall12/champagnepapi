@@ -1,0 +1,18 @@
+.parent {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    padding: 25px;
+    border: solid 5px;
+
+}
+.pfp
+{ margin:5px;
+    border:solid 3px;
+    height:100px;
+        width:100px;
+   }
+.height {
+    height: 200px;
+    
+}
